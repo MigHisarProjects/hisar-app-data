@@ -450,39 +450,63 @@
         },
         "mig": {
           "name": "МИГ Текучи",
-          "location": "Comuna Poiana, județul Galați",
-          "description": "TO-BE-TRANSLATED Asociaţia ”GAL Tecuci” este un parteneriat public-privat constituit juridic în baza O.G nr. 26/2000, cu personalitate juridică, de drept privat şi fără scop patrimonial, în urma consimțământului celor 68 parteneri publici și privați de a se implica și contribui la dezvoltarea echilibrată și durabilă a teritoriului GAL prin implementarea programului LEADER, PNDR 2014-2020.\n\nStructura administrativ-teritorială a Asociației ”GAL Tecuci” se întinde din partea de Sud a județului Vaslui, respectiv comuna Pochidia și se continuă până în partea de Nord-Vest și Centrală a județului Galați, având în componența sa comunele: Bălășești, Buciumeni, Cerțești, Corod, Cosmești, Costache Negri, Cudalbi, Drăgușeni, Ghidigeni, Gohor, Nicorești, Poiana, Priponești, Țepu, Valea Mărului Asociaţia ”GAL Tecuci” are sediul în sat Poiana, comuna Poiana, județul Galați.",
-          "team_title": "Preşedinte",
+          "location": "Община Пояна, окръг Галац",
+          "description": "Сдружението \"GAL Tecuci\" е публично-частно партньорство, законно създадено на основание G.O. 26/2000 г., с правосубектност, частноправна и без наследствена цел, след съгласието на 68 публични и частни партньори да се включат и да допринесат за балансираното и устойчиво развитие на територията на МИГ чрез изпълнението на програма ЛИДЕР, PNDR 2014-2020.\nАдминистративно-териториалното устройство на Асоциация \"GAL Tecuci\" се простира от южната част на окръг Васлуй, респективно община Почидия, и продължава към северозападната и централната част на окръг Галац, имайки в състава си общините: Bălășești, Buciumeni , Cerțești, Corod, Cosmești, Costache Negri, Cudalbi, Drăgușeni, Ghidigeni, Gohor, Nicorești, Poiana, Priponești, Țepu, Valea Mărului Сдружение „GAL Tecuci“ е базирано в село Пояна, община Пояна, окръг Галац ",
+          "team_title": "Президент",
           "team": "Capraru Valeriu Paul\n0744 858 110\nMunteanu Mirabela\n0722 858 110\nPintilie Ancuta\n0733 858 110",
-          "contacts_title": "Contact",
-          "contacts": "Sediul Asociației GAL Tecuci\nComuna Poiana, județul Galați\nPoiana 807226, Romania\nFax: 0336 818 990\ne-mail: galtecuci@yahoo.com"
+          "contacts_title": "Контакти",
+          "contacts": "Sediul Asociației GAL Tecuci\nComuna Poiana, județul Galați\nPoiana 807226, Romania\nFax: 0336 818 990\ne-mail: galtecuci@yahoo.com",
+          "images": [
+            "tecuci_mig_1",
+            "tecuci_mig_2",
+            "tecuci_mig_3"
+          ]
         },
         "pois": {
-          "sights": [],
+          "sights": [
+            {
+              "id": 21,
+              "placeId": 2,
+              "type": "place",
+              "name": "Крепост Пироборидава",
+              "short_description": "Археологически обект",
+              "description": "Пироборидава (на старогръцки : Πιροβορίδαυα ) е дакийски град , споменат от Птолемей и археологически идентифициран в Пояна, Галац, Румъния . Втора част от името на града Dacian dava показва значението на племенния град.",
+              "address": "Unnamed Road, Poiana 625201, Румъния",
+              "location": {
+                "lat": 45.99580609977201,
+                "lon": 27.248936227269017
+              },
+              "links": "",
+              "images": [
+                "piro_pic_3",
+                "piro_pic_2"
+              ]
+            }
+          ],
           "hotels": [
             {
-              "id": 20,
+              "id": 22,
               "placeId": 2,
               "type": "hotel",
               "maxPricePerNight": 100,
               "maxPrice": 150,
-              "address": "Tecuci, Transilvaniei 7, 805300 Tecuci, Romania",
+              "address": "Com.Valea Mărului,str.Pr.Dr.Marcel Crihana,nr.21, Valea Mărului 807320",
               "price": 13,
-              "name": "Pensiunea Kristall Tecuci",
+              "name": "Salonul Piscina Bacsoridana",
               "popularity": 47,
-              "short_description": "Pensiunea Kristall Tecuci се намира в Теучи и разполага с бар.",
-              "description": "Pensiunea Kristall Tecuci се намира в Теучи и разполага с бар. Тази 3-звездна къща за гости предлага туристическо бюро и помещение за съхранение на багаж. Предлага денонощна рецепция, летищен трансфер, общ салон и безплатен WiFi. Стаите в къщата за гости разполагат с гардероб. Всички стаи в Pensiunea Kristall Tecuci разполагат със самостоятелна баня с душ и безплатни тоалетни принадлежности, телевизор с плосък екран и климатик, а някои от тях имат и кът за сядане. Фочани е на 36 километра, а Аджуд е на 35 километра. Най-близкото летище е международното летище Бакау, на 103 км от Pensiunea Kristall Tecuci.",
+              "short_description": "Разположен в община Valea Mărului (Ябълковата долина)",
+              "description": "Разположен в община Valea Mărului (Ябълковата долина), окръг Галац, Салон Piscină очаква своите гости на място от най-висок клас. Салонът се намира в непосредствена близост до басейна Bacsoridana, което му дава предимство и предлага на всеки възможност за едно наистина специално парти или събитие.\n\nтел. 0726 754 053",
               "location": {
-                "lon": 98.39146,
-                "lat": 7.878922
+                "lon": 45.84888878538969,
+                "lat": 27.428019574990692
               },
-              "url": "https://www.booking.com/hotel/ro/pensiunea-kristall.bg.html?aid=356980&label=gog235jc-1DCAsowAFCEnBlbnNpdW5lYS1rcmlzdGFsbEgzWANoF4gBAZgBA7gBB8gBDNgBA-gBAYgCAagCA7gCwoDnlQbAAgHSAiRiNjM2YjFiOC00ODVjLTQ3NGItYTVkOC00YjQzYjcyZDcxOWbYAgTgAgE&sid=5c3cae5fc27820eb929ae0041e70f725&dist=0&keep_landing=1&sb_price_type=total&type=total&",
-              "stars": 3,
+              "url": "https://www.bacsoridana.ro/salon-piscina",
+              "stars": 5,
               "rating": 63,
               "images": [
-                "https://hoteltravel.s3.eu-central-1.amazonaws.com/e-cazare.ro/images/hotel-parc-tecuci-tecuci/large-image-hotel-hotel-parc-tecuci-1.jpg",
-                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/342916352.jpg?k=729fed6a6f78144d82c914d04a9092647c7cdedd7854be8f75f5584ce0716a4b&o=&hp=1",
-                "https://q-xx.bstatic.com/xdata/images/hotel/840x460/342922870.jpg?k=0353aa993c0628bbabe8ea9e308df0c90f39aefe41e7c600bd32017de912169d&o="
+                "https://www.bacsoridana.ro/wp-content/gallery/galerie-foto/IMG_009.jpg",
+                "https://www.bacsoridana.ro/wp-content/gallery/galerie-piscina/IMG_010.jpg",
+                "https://www.bacsoridana.ro/wp-content/gallery/galerie-piscina/IMG_020.jpg"
               ],
               "options": {
                 "available": 5,
@@ -502,34 +526,34 @@
               }
             },
             {
-              "id": 21,
+              "id": 23,
               "placeId": 2,
               "type": "hotel",
               "maxPricePerNight": 46,
               "maxPrice": 138,
-              "address": "Str. Mihai Eminescu , 805300 Tecuci, Romania",
+              "address": "DJ252 Главна улица No. 81, 807215 Никорещи, Румъния",
               "price": 13,
-              "name": "Hotel Sophia",
+              "name": "Casa Nicoresti",
               "short_description": "Хотел Sophia се намира в Теучи, на 25 километра от Фочани.",
-              "description": "Хотел Sophia се намира в Теучи, на 25 километра от Фочани. Той предлага климатизирани стаи и безплатен частен паркинг. На място има бар. Всяка стая е климатизирана и разполага с плоскоекранен телевизор с кабелни програми. Всяка стая включва собствена баня с душ. За удобство на гостите са осигурени безплатни тоалетни принадлежности. Във всички части на хотел София е осигурен безплатен Wi-Fi. Рецепцията в хотела работи денонощно.",
+              "description": "Casa Nicoresti разполага с ресторант, сезонен открит плувен басейн, бар и споделен салон в Никорещи. Мястото за настаняване разполага и с частна плажна зона, както и с градина и тераса. Предлага също така обща кухня и рум сървис за гостите.\nВсяка стая в хотела има гардероб и телевизор с плосък екран. Стаите са оборудвани със самостоятелна баня с душ и сешоар, а някои помещения в Casa Nicoresti предлагат на гостите и кът за сядане.\nГостите на хотела могат да се насладят на закуска на шведска маса.\nГостите на Casa Nicoresti ще могат да се възползват от различни дейности в и около Никорещи, като пешеходен туризъм например.\nФокшани е на 27 километра от хотела, а Текучи е на 13 километра. Най-близкото летище е международно летище Бакау, на 73 километра от Casa Nicoresti.\nТел.: 0766 226 466",
               "popularity": 47,
               "location": {
-                "lon": 98.39146,
-                "lat": 7.878922
+                "lon": 45.93437830253116,
+                "lat": 27.310767498431286
               },
-              "url": "https://www.booking.com/hotel/ro/sophia.ro.html",
+              "url": "https://casanicoresti.hotelrom.top/",
               "stars": 3,
               "rating": 63,
               "images": [
-                "https://q-xx.bstatic.com/xdata/images/hotel/max500/65252529.jpg?k=56be81eedafb2257a950da3813b0b2e5c59dc7d8edeb5e60a94248376db57b98&o=",
-                "https://cdn-img.readytotrip.com/t/1024x768/content/e1/c7/e1c70bd21461319b97a525e76e51b7f10d0c816c.jpeg",
-                "https://cf.bstatic.com/xdata/images/hotel/max500/64204826.jpg?k=85a534b1e4555302b1e0ab0fe1567905ef954609244ac7d8573f751bd6fe7959&o=&hp=1"
+                "https://cf.bstatic.com/xdata/images/hotel/max1280/373482317.jpg?k=84d38321eab6adf63e1bacedc2e60a4e54c10b72cd0e429a4bdd8227832dbf73&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max1280/366894793.jpg?k=63734814e36151eea84692a0fe7b6fc54a1afcac4b79d6af834460b283ad075e&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max1280/366863136.jpg?k=e80bc02dda6d07417bb028fdb92d2d3987dbf823e9f35c401e54929f731a9011&o=&hp=1"
               ],
               "options": {
                 "available": 5,
                 "breakfast": true,
                 "wifi": true,
-                "airport": false,
+                "airport": true,
                 "bar": true,
                 "gym": true,
                 "beach": false,
@@ -541,9 +565,215 @@
                 "restaurant": true,
                 "wheelchair": true
               }
+            },
+            {
+              "id": 24,
+              "placeId": 2,
+              "type": "hotel",
+              "maxPricePerNight": 46,
+              "maxPrice": 138,
+              "address": "Doaga, 20 km de Focșani, DN24, Vrancea, România",
+              "price": 13,
+              "name": "Хотел Зага Зага",
+              "short_description": "Тих и спокоен хотел",
+              "description": "Оставяйки зад гърба си шума и суетата на градовете, в едно приказно кътче, Сирет разклонява ръкавите си, разпростиращи се върху безкрайна шир, родила едно уникално място в Румъния.\nНа границата между окръзите Вранча и Галац, на площ от над 82 хектара се намира Зага Зага.\n0311 019 785\nrezervari@zagazaga.ro",
+              "popularity": 47,
+              "location": {
+                "lon": 45.8538126065654,
+                "lat": 27.300197298429136
+              },
+              "url": "https://zagazaga.ro/",
+              "stars": 3,
+              "rating": 63,
+              "images": [
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/96/dd/1f/photo1jpg.jpg?w=1200&h=-1&s=1",
+                "https://d3hj7i5wny7p5d.cloudfront.net/upload/rooms/39690-m.jpg",
+                "https://d3hj7i5wny7p5d.cloudfront.net/upload/rooms/39693-m.jpg"
+              ],
+              "options": {
+                "available": 5,
+                "breakfast": true,
+                "wifi": true,
+                "airport": false,
+                "bar": true,
+                "gym": true,
+                "beach": true,
+                "casino": false,
+                "elevator": true,
+                "laundry": false,
+                "meeting": true,
+                "pet": true,
+                "restaurant": true,
+                "wheelchair": true
+              }
             }
           ],
-          "restaurants": []
+          "restaurants": [
+            {
+              "id": 25,
+              "placeId": 2,
+              "type": "restaurant",
+              "maxPricePerNight": 46,
+              "maxPrice": 138,
+              "address": "DN24, Cosmeşti 807085, Румъния",
+              "price": 13,
+              "name": "La Mama Leana",
+              "short_description": "Tрадиционна храна и парти музика",
+              "description": "Спирката при La Mama Leana е много старо място в окръг Галац с дълга история в приготвянето на традиционна храна и изпълнението на парти музика.\nНа това място, разположено в община Космещи, окръг Галац, ще можете да опитате традиционна румънска храна.",
+              "popularity": 47,
+              "phone": "+40 336408297",
+              "location": {
+                "lon": 45.858701654225115,
+                "lat": 27.307129998429208
+              },
+              "url": "https://goo.gl/maps/TidAtm5rK4FTtaKw8",
+              "stars": 3,
+              "rating": 63,
+              "images": [
+                "mama_lena_1",
+                "mama_lena_2",
+                "mama_lena_3"
+              ],
+              "options": {
+                "available": 5,
+                "breakfast": true,
+                "wifi": true,
+                "airport": false,
+                "bar": false,
+                "gym": false,
+                "beach": false,
+                "casino": false,
+                "elevator": false,
+                "laundry": false,
+                "meeting": true,
+                "pet": true,
+                "restaurant": true,
+                "wheelchair": true
+              }
+            },
+            {
+              "id": 26,
+              "placeId": 2,
+              "type": "restaurant",
+              "maxPricePerNight": 46,
+              "maxPrice": 138,
+              "address": "Sat Corod, Comuna Corod, Румъния",
+              "price": 13,
+              "name": "Mixt Grill La Pav",
+              "short_description": "Tрадиционен румънски ресторант",
+              "description": "Mixt Grill La Pav е традиционен румънски ресторант, който се намира в община Кород Джуд Галац.\nНа това място туристите ще намерят традиционни румънски продукти майсторски изпечени на скара.\nТук ще намерите известните малки традиционни румънски ястия от свинско и овче месо.",
+              "popularity": 47,
+              "phone": "+40 749450344",
+              "location": {
+                "lon": 45.965031121526025,
+                "lat": 27.714247998432178
+              },
+              "url": "https://goo.gl/maps/7e1MjAd1npbWf33s9",
+              "stars": 3,
+              "rating": 63,
+              "images": [
+                "restaurant_26"
+              ],
+              "options": {
+                "available": 5,
+                "breakfast": true,
+                "wifi": true,
+                "airport": false,
+                "bar": false,
+                "gym": false,
+                "beach": false,
+                "casino": false,
+                "elevator": false,
+                "laundry": false,
+                "meeting": true,
+                "pet": true,
+                "restaurant": true,
+                "wheelchair": true
+              }
+            },
+            {
+              "id": 27,
+              "placeId": 2,
+              "type": "restaurant",
+              "maxPricePerNight": 46,
+              "maxPrice": 138,
+              "address": "Ул. Stefan cel Mare 300, Кород, Румъния",
+              "price": 13,
+              "name": "ANNE BAR COROD",
+              "short_description": "ресторанта е тип шведски бюфет",
+              "description": "Това е ресторант, разположен в община Кород в окръг Галац. Намира се на главната улица и е място, известно в цялата общност, защото е посещавано от много млади хора.\nСпецификата на ресторанта е тип шведски бюфет и предлага традиционни румънски сладкиши и торти.",
+              "popularity": 47,
+              "phone": "+40 753 703 064",
+              "location": {
+                "lon": 45.90525814473612,
+                "lat": 27.631996413774537
+              },
+              "url": "https://www.facebook.com/Anne-Bar-cofet%C4%83rie-gelaterie-891617811178352/",
+              "stars": 3,
+              "rating": 63,
+              "images": [
+                "https://scontent.fsof8-1.fna.fbcdn.net/v/t1.6435-9/118365708_1220318374974959_6052359845324902065_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=ZaiMP2NNM6AAX9Z-8_v&_nc_ht=scontent.fsof8-1.fna&oh=00_AT9vNeagacN_ON6ODr-ugUnYn7wZZblsQo2xMWP37MFrCQ&oe=632892AD",
+                "restaurant_27"
+              ],
+              "options": {
+                "available": 5,
+                "breakfast": true,
+                "wifi": true,
+                "airport": false,
+                "bar": false,
+                "gym": false,
+                "beach": false,
+                "casino": false,
+                "elevator": false,
+                "laundry": false,
+                "meeting": true,
+                "pet": true,
+                "restaurant": true,
+                "wheelchair": true
+              }
+            },
+            {
+              "id": 28,
+              "placeId": 2,
+              "type": "restaurant",
+              "maxPricePerNight": 46,
+              "maxPrice": 138,
+              "address": "Doaga, 627143, Vrancea, Румъния",
+              "price": 13,
+              "name": "Zaga Zaga Cherhana",
+              "short_description": "Прясна риба в делтата на Сирет",
+              "description": "Плаващата рибарска лодка - свежест и вкус\nПлаващата лодка на Зага Зага е идеалното място, където можете да се насладите на красивата делта на Сирет и в същото време да опитате вкусни местни продукти и ястия от прясна риба, произведени в нашата собствена ферма.",
+              "popularity": 47,
+              "phone": "+40 311 019 785",
+              "location": {
+                "lon": 45.85195374308198,
+                "lat": 27.297555327265073
+              },
+              "url": "http://zagazaga.ro/cherhana",
+              "stars": 3,
+              "rating": 63,
+              "images": [
+                "https://zagazaga.ro/wp-content/themes/yootheme/cache/FINAL-Meniu-Cherhana-1-8ddc149f.webp",
+                "https://zagazaga.ro/wp-content/themes/yootheme/cache/FINAL-Meniu-Cherhana-3-b519198a.webp"
+              ],
+              "options": {
+                "available": 5,
+                "breakfast": true,
+                "wifi": true,
+                "airport": false,
+                "bar": false,
+                "gym": false,
+                "beach": false,
+                "casino": false,
+                "elevator": false,
+                "laundry": false,
+                "meeting": true,
+                "pet": true,
+                "restaurant": true,
+                "wheelchair": true
+              }
+            }
+          ]
         }
       }
     ]
