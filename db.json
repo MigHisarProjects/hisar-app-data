@@ -57,7 +57,7 @@
               "placeId": 1,
               "type": "place",
               "name": "Тракийски култов храм в Старосел",
-              "short_description": "",
+              "short_description": "Тракийският култов храм, в \"Четиньова могила\", открит и разкопан от Георги Китов през 2000 г.",
               "description": "Тракийският култов храм, в \"Четиньова могила\", открит и разкопан от Георги Китов през 2000 г., е най-големият открит досега тракийски царски комплекс с мавзолей. Храмът впечатлява с внушителната ограда (крепида) от каменни блокове, парадно стълбище с коридор и култова площадка.\r\nВходът е очертан от плочи с пластична и цветна украса. Вътрешното помещение е огромна (диам. 4,80 м) кръгла куполна камера с полуколони и цветни орнаменти. От северната страна на храма се намира вкопана скална вана за производство и съхранение на вино. Тя е с елипсовидна основа и плътна замазка. При разкопките вътре са намерени съдове за пиене на вино и цедилки.\r\nТракийският култов храм с. Старосел общ. Хисаря е отворен за посетители всеки ден от 9:00 часа до 17:00 часа.",
               "address": "общ. Хисаря, с. Старосел",
               "location": {
@@ -534,7 +534,7 @@
               "address": "DJ252 Главна улица No. 81, 807215 Никорещи, Румъния",
               "price": 13,
               "name": "Casa Nicoresti",
-              "short_description": "Хотел Sophia се намира в Теучи, на 25 километра от Фочани.",
+              "short_description": "Casa Nicoresti разполага с ресторант, сезонен открит плувен басейн, бар и споделен салон в Никорещи",
               "description": "Casa Nicoresti разполага с ресторант, сезонен открит плувен басейн, бар и споделен салон в Никорещи. Мястото за настаняване разполага и с частна плажна зона, както и с градина и тераса. Предлага също така обща кухня и рум сървис за гостите.\nВсяка стая в хотела има гардероб и телевизор с плосък екран. Стаите са оборудвани със самостоятелна баня с душ и сешоар, а някои помещения в Casa Nicoresti предлагат на гостите и кът за сядане.\nГостите на хотела могат да се насладят на закуска на шведска маса.\nГостите на Casa Nicoresti ще могат да се възползват от различни дейности в и около Никорещи, като пешеходен туризъм например.\nФокшани е на 27 километра от хотела, а Текучи е на 13 километра. Най-близкото летище е международно летище Бакау, на 73 километра от Casa Nicoresti.\nТел.: 0766 226 466",
               "popularity": 47,
               "location": {
@@ -1560,6 +1560,8 @@
   "en": {
     "places": [
       {
+        "id": 1,
+        "name": "Hisar",
         "info": {
           "id": 1,
           "name": "Cromlech",
@@ -1583,18 +1585,411 @@
           "team_title": "Team",
           "team": "Chairman of the Board: Maria Mustakova\r\nExecutive director: Yonko Yonkov\r\nExpert in the implementation of SWOMR: Teodora Todorova\r\nAssistant office: Ivanka Bogunska",
           "contacts_title": "Contacts",
-          "contacts": "Hissarya Local Initiative Group\r\nHissarya, 23 Gen. Gurko Street\r\nPC: 4180\r\nPhones:\r\nChairman of the Management Board - +359884591013\r\nExecutive Director - +359884048235\r\nAssistant - +359884647501\r\nExpert on the implementation of SWOMR - +359887072462\r\nOffice - +359884167592\r\ne-mail: mig.hisarya@abv.bg \r\n",
+          "contacts": "Hissarya Local Initiative Group\r\nHissarya, 23 Gen. Gurko Street\r\nPC: 4180\r\nPhones:\r\nChairman of the Management Board - +359884591013\r\nExecutive Director - +359884048235\r\nAssistant - +359884647501\r\nExpert on the implementation of SWOMR - +359887072462\r\nOffice - +359884167592\r\ne-mail: mig.hisarya@abv.bg",
           "images": [
             "hisar_mig_1"
           ]
         },
         "pois": {
-          "sights": [],
-          "hotels": [],
-          "restaurants": []
+          "sights": [
+            {
+              "id": 1,
+              "placeId": 1,
+              "type": "place",
+              "name": "Cromlech near the village of Staro Zhelezare",
+              "short_description": "Cromlech in Cholakova mound near the village of Staro Zhelezare",
+              "description": "An ancient astronomical observatory over 2,600 years old can be seen just ten kilometers from the Hisarya spa resort. Unfortunately, the 24 stone steps discovered in 2002 by the late archaeologist Georgi Kitov are far from being in a brilliant condition today. Only a small part of the pillars with a height of up to 2 meters remain in place in the district. The cromlech of Cholakova mound near the village of Staro Zhelezare needs saving.",
+              "address": "Cholakova mound, village of Staro Zhelezare, town of Hisarya",
+              "location": {
+                "lat": 42.43690746107803,
+                "lon": 24.658606227171774
+              },
+              "links": "",
+              "images": [
+                "kromleh_pic_1",
+                "kromleh_pic_2"
+              ]
+            },
+            {
+              "id": 2,
+              "placeId": 1,
+              "type": "place",
+              "name": "Thracian cult temple in Starosel",
+              "short_description": "The Thracian cult temple, discovered and excavated by Georgi Kitov in 2000, is the largest Thracian royal complex...",
+              "description": "The Thracian cult temple, in \"Chetinova Mound\", discovered and excavated by Georgi Kitov in 2000, is the largest Thracian royal complex with a mausoleum ever discovered. The temple impresses with the imposing fence (crepida) of stone blocks, a grand staircase with a corridor and a cult platform.\r\nThe entrance is outlined by slabs with plastic and colorful decoration. The inner room is a huge (diam. 4.80 m) circular domed chamber with half-columns and colorful ornaments. On the northern side of the temple is a rock-cut tub for the production and storage of wine. It has an elliptical base and thick screed. During the excavations, vessels for drinking wine and strainers were found inside.\r\nThe Thracian cult temple in the village of Starosel municipality. Hisarya is open to visitors every day from 9:00 AM to 5:00 PM.",
+              "address": "общ. Хисаря, с. Старосел",
+              "location": {
+                "lat": 42.51187820032504,
+                "lon": 24.547063157713264
+              },
+              "links": "https://hisar.bg/hisar/%D1%82%D1%80%D0%B0%D0%BA%D0%B8%D0%B9%D1%81%D0%BA%D0%B8-%D0%BA%D1%83%D0%BB%D1%82%D0%BE%D0%B2-%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81-%D1%81-%D1%81%D1%82%D0%B0%D1%80%D0%BE%D1%81%D0%B5%D0%BB/",
+              "images": [
+                "starosel1",
+                "starosel2"
+              ]
+            },
+            {
+              "id": 3,
+              "placeId": 1,
+              "type": "place",
+              "name": "Hisar fortress wall",
+              "short_description": "The fortress wall of Hisarya is the best preserved in Europe from the era of late antiquity /IV century/",
+              "description": "The wall reaches a length of 2315 m with a height of 11 meters, and the largest fortress gate \"The Camels\" rises to 13 meters. There, in 1882, the folk writer and poet Ivan Vazov, admiring the wonderful view, wrote the poem \"Fatherland Kindly\"!",
+              "address": "reg. Plovdiv, 4180 Hisarya, city center",
+              "location": {
+                "lat": 42.50419571179015,
+                "lon": 24.703060856381676
+              },
+              "links": "",
+              "images": [
+                "stena1",
+                "stena2"
+              ]
+            },
+            {
+              "id": 4,
+              "placeId": 1,
+              "type": "place",
+              "name": "\"House of Traditions\" – ethnographic museum",
+              "short_description": "The museum is located in the village of Staro Zhelezare /12 km. from the town of Hisarya/ and is housed in a beautiful building with revival architecture, in the center of the village.",
+              "description": "The exhibits are composed in thematic areas, the most important being \"The Bread\" and \"The Wedding\".\r\nThe life and history of the local community is traced through these main Bulgarian symbols. There are also places where visitors can grind red pepper and spices themselves to prepare the famous old iron patterned salt. Or to spin wool with a hook and a spindle in the \"homework\" corner. The rich collection of authentic costumes, aprons and wedding rings reveals the colors of the local Thracian costume. The rites and rituals characteristic of this region are also shown, as well as some amulets and charms used in ancient times. The museum has a \"Dukyan\" where handmade clothes, socks and souvenirs are sold.\r\nThe \"House of Traditions\" organizes for tourist groups, with prior request, demonstrations of seasonal rituals, ancient crafts and household activities, as well as tasting of homemade dishes and drinks.\r\nWorking hours: 10 - 12 and 14 - 17, weekends: Saturday and Sunday\r\nTicket price: BGN 1.00 For demonstrations and tastings: according to the price list\r \nFor additional information and reservations: Tourist Information Center - Hisarya",
+              "address": "4165 village of Staro Zhelezare, the village center",
+              "location": {
+                "lat": 42.445150296244464,
+                "lon": 24.64896985372787
+              },
+              "links": "",
+              "images": [
+                "traditions1",
+                "traditions2",
+                "traditions3"
+              ]
+            }
+          ],
+          "hotels": [
+            {
+              "id": 5,
+              "placeId": 1,
+              "type": "hotel",
+              "maxPricePerNight": 46,
+              "maxPrice": 138,
+              "address": "1 \"General Gurko\" str., 4180 Hisar, reg. Plovdiv",
+              "price": 13,
+              "name": "Hotel Hissar",
+              "popularity": 47,
+              "short_description": "Hotel Hissar is located in one of the most famous parks of Hissar and is surrounded by hot mineral springs.",
+              "description": "This peaceful spa hotel is located in a large park and is surrounded by forests. The traditional rooms offer all the necessary amenities for an amazing holiday. Free parking, dinner and buffet breakfast are available to guests. There are 2 restaurants, 3 bars and a café with a bowling alley. Other facilities include an indoor and outdoor pool, a wellness center, a gym and a children’s center. Spa Hotel Hissar offers various tourist tours to visitors, private transfers with comfortable cars are possible, with which the trip of the guests will be pleasant and safe.\\Phone: +359(0) 337 62 781;\nЕ-mail: marketing@hotelhissar.com, hotelhissar@gmail.com",
+              "location": {
+                "lon": 42.50090621923711,
+                "lat": 24.714453198337278
+              },
+              "url": "http://hotelhissar.com/",
+              "stars": 3,
+              "rating": 63,
+              "images": [
+                "https://www.verso.bg/pictures/2020/09/28/54329/original.jpg",
+                "https://visithisarya.com/wp-content/uploads/2021/08/81332195-1024x683.jpg",
+                "https://grupovo.net/places/g_43226.jpg"
+              ],
+              "options": {
+                "available": 5,
+                "breakfast": true,
+                "wifi": true,
+                "airport": false,
+                "bar": true,
+                "gym": true,
+                "beach": false,
+                "casino": false,
+                "elevator": true,
+                "laundry": true,
+                "meeting": true,
+                "pet": true,
+                "restaurant": true,
+                "wheelchair": true
+              }
+            },
+            {
+              "id": 6,
+              "placeId": 1,
+              "type": "hotel",
+              "maxPricePerNight": 46,
+              "maxPrice": 138,
+              "address": "5 Vasil Petrovich Str, 4180 Centre, Hissarya",
+              "price": 13,
+              "name": "Hotel Chinar",
+              "short_description": "The hotel is luxuriously and stylishly furnished, and offers its guests the opportunity for pleasant experiences",
+              "description": "The hotel is luxuriously and stylishly furnished, and offers its guests the opportunity for pleasant experiences all year round. It has a luxury restaurant, a cozy lobby bar with a fireplace, an equipped conference hall for trainings and presentations. The spa and wellness center offers a variety of relaxing and toning therapies and massages. Their team of professionals - rehabilitators is available to guests for therapeutic massages and procedures. The center has a sauna, a large jacuzzi, a steam bath and a gym. The complex offers the opportunity to organize excursions, walking and bus tours, excursions to nearby cultural attractions.\\Phone: 087 961 7313; \n+359 337 62288",
+              "popularity": 47,
+              "location": {
+                "lon": 42.50520673600829,
+                "lat": 24.710290069501397
+              },
+              "url": "https://hotelchinar.bg/",
+              "stars": 3,
+              "rating": 63,
+              "images": [
+                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/25789366.jpg?k=05baeab77fd7e7c608559dc65ac64a7946001633408353911c281248f986c3fa&o=&hp=1",
+                "https://hotelchinar.bg/img/211121092719-3.jpg",
+                "https://cf.bstatic.com/xdata/images/hotel/max1280x900/25807573.jpg?k=8d61bc69a476df864f99e1927ca91f0ba44453dae6dc70282e0cec36ecb4d2a2&o=&hp=1"
+              ],
+              "options": {
+                "available": 5,
+                "breakfast": true,
+                "wifi": false,
+                "airport": false,
+                "bar": true,
+                "gym": true,
+                "beach": false,
+                "casino": false,
+                "elevator": true,
+                "laundry": true,
+                "meeting": false,
+                "pet": true,
+                "restaurant": true,
+                "wheelchair": true
+              }
+            },
+            {
+              "id": 7,
+              "placeId": 1,
+              "type": "hotel",
+              "maxPricePerNight": 46,
+              "maxPrice": 138,
+              "address": "4180 Hissarya, 3 Gurko Boulevard",
+              "price": 13,
+              "name": "Augusta Spa Hotel Hissarya",
+              "popularity": 47,
+              "short_description": "Spa Hotel Augusta is located in Hisarya, next to the central park with archaeological sites.",
+              "description": "In Hotel AUGUSTA, Hissarya*** they believe that everyone deserves a complete rest, professional health care and a series of invigorating, emotional experiences. There are two large outdoor pools and 2 indoor ones, all with mineral water. There is a large and well-developed spa, restaurant, and lobby bar, which is very close to the children's playground. During your stay at Hotel AUGUSTA, you will enjoy professional service with special attention to your individual wishes. There is also a variety of additional services, providing the opportunity to organize your vacation entirely according to your personal preferences.\nReception (central):\n+359 337 62255\nRestaurant:\n+359 887333849",
+              "location": {
+                "lon": 42.50039692957674,
+                "lat": 24.712310769501272
+              },
+              "url": "https://augustaspa.com/",
+              "stars": 3,
+              "rating": 63,
+              "images": [
+                "https://visit.bg/symimages/v3/hotel/202/563a0524e3f0c.jpg",
+                "https://augustaspa.com/wp-content/uploads/2022/04/hotel-augusta-hisarya-basein1.jpg",
+                "https://augustaspa.com/wp-content/uploads/2022/07/dvoini-stai-hotel-augusta.jpg"
+              ],
+              "options": {
+                "available": 5,
+                "breakfast": true,
+                "wifi": true,
+                "airport": false,
+                "bar": true,
+                "gym": true,
+                "beach": false,
+                "casino": true,
+                "elevator": true,
+                "laundry": true,
+                "meeting": true,
+                "pet": true,
+                "restaurant": true,
+                "wheelchair": true
+              }
+            },
+            {
+              "id": 8,
+              "placeId": 1,
+              "type": "hotel",
+              "maxPricePerNight": 46,
+              "maxPrice": 138,
+              "address": "Hissarya, 5 Augusta Str.",
+              "price": 13,
+              "name": "Hotel Club Central",
+              "popularity": 47,
+              "short_description": "Hotel Club Central is located in the center of the national archeological reserve",
+              "description": "Hotel Club Central, Hissarya, is located in the center of the national archeological reserve \"Diocletianopol\".  This luxurious 4-star hotel offers elegantly furnished rooms, a relaxation center, a specially selected menu combined with the cozy atmosphere of a classic restaurant and a Mediterranean restaurant with an outdoor garden. The lobby bar is the perfect place for morning coffee. Hotel guests enjoy free on-site parking and free Wi-Fi. There is also a spa area with an indoor pool, jacuzzi and sauna. Guests can pamper themselves with traditional and relaxing massages with herbal essential oils from the Rose Valley region and exotic therapies with the best cosmetics.\nThe location of the hotel is wonderful for people going on cultural tourism.\\Phone: 0886 404846, 0337 65050\nEmail: central.spaclub@gmail.com",
+              "location": {
+                "lon": 42.50249744974751,
+                "lat": 24.70164164066538
+              },
+              "url": "https://www.hotelclubcentral.com",
+              "stars": 4,
+              "rating": 63,
+              "images": [
+                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/105839344.jpg?k=352475257a356c4b085fe537c21c0c45e76a52be96c4c4abf833995d43d294ed&o=&hp=1",
+                "http://www.hotelclubcentral.com/images/image2.jpg",
+                "http://www.hotelclubcentral.com/images/image1.jpg"
+              ],
+              "options": {
+                "available": 5,
+                "breakfast": true,
+                "wifi": true,
+                "airport": false,
+                "bar": true,
+                "gym": false,
+                "beach": false,
+                "casino": false,
+                "elevator": true,
+                "laundry": true,
+                "meeting": true,
+                "pet": true,
+                "restaurant": true,
+                "wheelchair": true
+              }
+            },
+            {
+              "id": 9,
+              "placeId": 1,
+              "type": "hotel",
+              "maxPricePerNight": 46,
+              "maxPrice": 138,
+              "address": "Hissarya, 7 Vasil Petrovich Str.",
+              "price": 13,
+              "name": "Villa Petrovich",
+              "popularity": 47,
+              "short_description": "A place full of history",
+              "description": "Villa Petrovich - The Writers - is a place full of history. Home of Bulgarian artists - today the building is a small paradise for rest and pleasure. The concept of themed boutique rooms is inspired by the desire to revive the memory of the masters of the pen who left us a legacy of exceptional works. Wisdom Room - Elisaveta Bagryana - a beautiful double room decorated in a colorful interior in sunny yellow and turquoise. Landscape Room - Ivan Vazov - attractive and colorful furniture with simple details and a spirit of poetry. Dream Room - Peyo Yavorov - delicate interior in rose and mint color - romantic and cozy atmosphere . Expectation room - Dora Gabe - an exceptional feeling for an upcoming pleasant holiday - a solution in natural tones and a lot of style. Studio Bulgarka - Yordan Yovkov - a symbiosis of style, classics, colors and mood for a pleasant experience. Writers Apartment - 2 bedrooms, dining room, living room, bathroom, refrigerator, microwave, 2 pcs. TVs, iron, ironing board. The boutique and original rooms are located in the heart of the town of Hissarya. Near the villa are the community center, mineral springs, parks and entertainment venues. \nPhone: 0882 62 50 05",
+              "location": {
+                "lon": 42.505184079177376,
+                "lat": 24.71122286950141
+              },
+              "url": "https://www.facebook.com/vilapetrovich/",
+              "stars": 2,
+              "rating": 63,
+              "images": [
+                "https://cf.bstatic.com/xdata/images/xphoto/max500_ao/64281535.jpg?k=a067554e6cc2a71c9bf661ee3bf1c322459796f62e9a1a5cc0947c156bb01281&o=",
+                "https://cf.bstatic.com/xdata/images/hotel/max1280x900/344704814.jpg?k=db351d7216fa446002c198e4557d4cfa00f6738c85b7a3a62b76b1fe95079f40&o=&hp=1",
+                "https://rezervaciq.com/img.php?src=img/objects/1556867903-apartament-vila-petrovich-3114.jpg&w=375&h=380"
+              ],
+              "options": {
+                "available": 5,
+                "breakfast": true,
+                "wifi": true,
+                "airport": false,
+                "bar": false,
+                "gym": false,
+                "beach": false,
+                "casino": false,
+                "elevator": true,
+                "laundry": false,
+                "meeting": true,
+                "pet": false,
+                "restaurant": false,
+                "wheelchair": false
+              }
+            }
+          ],
+          "restaurants": [
+            {
+              "id": 10,
+              "placeId": 1,
+              "type": "restaurant",
+              "address": "17 Augusta Str., 4180 Hissarya",
+              "name": "Chinar Restaurant",
+              "description": "Restaurant Chinar-Hissarya is cozy and spacious with a luxurious atmosphere, perfect service, wonderful cuisine, quality and elite wines and drinks.\nThe unique execution of the overall construction, decoration and furnishing of the restaurant will make you feel tenderness, warmth and tranquility, which only here you can find. The menu includes traditional Bulgarian cuisine, dishes from European and Asian cuisine, a variety of appetizers and salads, fresh and fresh grilled meats, non-traditional desserts, quality wines from declared geographical areas, and on request - homemade cakes, pies and tutmanits, lamb in St. George's style. , stuffed piglet. In this restaurant you will find your place for a pleasant, relaxing conversation with friends, the opportunity for beautiful minutes with a loved one, time for a business meeting, happy moments for private parties.",
+              "phone": 359889362145,
+              "popularity": 47,
+              "location": {
+                "lat": 42.50335798888078,
+                "lon": 24.701267956009524
+              },
+              "stars": 3,
+              "options": {
+                "available": 5,
+                "breakfast": true,
+                "wifi": true,
+                "airport": false,
+                "bar": false,
+                "gym": false,
+                "beach": false,
+                "casino": false,
+                "elevator": false,
+                "laundry": false,
+                "meeting": true,
+                "pet": false,
+                "restaurant": true,
+                "wheelchair": true
+              },
+              "rating": 63,
+              "images": [
+                "https://static.pochivka.bg/restaurants.bgstay.com/images/restaurants/00/199/320x230/55b60f0f84212.jpg",
+                "https://rezervaciq.com/img/objects/restaurants_178_16100828822.jpg",
+                "https://static.pochivka.bg/restaurants.bgstay.com/images/restaurants/00/199/55b60f34791bb.jpg"
+              ]
+            },
+            {
+              "id": 11,
+              "placeId": 1,
+              "type": "restaurant",
+              "address": "7 Vasil Petrovich Str., 4180 Centre, Hissarya",
+              "name": "Cafe - Garden \"The Writers\"",
+              "description": "In the pleasant atmosphere of CAFE - GARDEN \"THE WRITERS\" you can enjoy your coffee in the company of interesting books.  There is an indoor space where you can immerse yourself in an unperturbed and in-depth reading by various authors. There is also a large garden where you can enjoy good food while the children play around you at will. Cafe - Garden \"The Writers\" is a special place for connoisseurs. It is not an ordinary cafe where you sit down to drink coffee or eat something, it is a complete experience, enjoyment of the details, a sense of the spirit and energy of literature that hovers here with a residual aftertaste of magical femininity and power.",
+              "phone": "088 2625005",
+              "popularity": 47,
+              "location": {
+                "lat": 42.50518539812244,
+                "lon": 24.710865440665494
+              },
+              "stars": 3,
+              "options": {
+                "available": 5,
+                "breakfast": true,
+                "wifi": true,
+                "airport": false,
+                "bar": false,
+                "gym": false,
+                "beach": false,
+                "casino": false,
+                "elevator": false,
+                "laundry": false,
+                "meeting": true,
+                "pet": false,
+                "restaurant": true,
+                "wheelchair": true
+              },
+              "rating": 63,
+              "images": [
+                "https://womanlike.bg/wp-content/uploads/2019/11/IMG_20191109_125315-768x1024.jpg",
+                "https://womanlike.bg/wp-content/uploads/2019/11/IMG_20191109_124657-768x1024.jpg",
+                "https://img.restaurantguru.com/c484-Cafe-Pisatelite-Kafe-Gradina-interior.jpg"
+              ]
+            },
+            {
+              "id": 12,
+              "placeId": 1,
+              "type": "restaurant",
+              "address": "Ivan Vazov Boulevard, 4180 Centre, Hissarya ",
+              "name": "Izvora Restaurant - Hissarya",
+              "description": "Izvora Restaurant is located in a picturesque area in the town of Hissarya. The restaurant offers a rich variety of Bulgarian and European cuisine. Guests can relax in the green summer garden and try Bulgarian and imported drinks. The spacious dance floor makes the place suitable for entertainment, weddings, baptisms and other celebrations. There is live music to lift the mood.",
+              "phone": "089 686 4987",
+              "popularity": 47,
+              "location": {
+                "lat": 42.49807599992171,
+                "lon": 24.70463629833734
+              },
+              "stars": 3,
+              "options": {
+                "available": 5,
+                "breakfast": true,
+                "wifi": true,
+                "airport": false,
+                "bar": false,
+                "gym": false,
+                "beach": false,
+                "casino": false,
+                "elevator": false,
+                "laundry": false,
+                "meeting": true,
+                "pet": false,
+                "restaurant": true,
+                "wheelchair": true
+              },
+              "rating": 63,
+              "images": [
+                "https://imgrabo.com/pics/guide/900x600/20201009180136_60563.jpeg",
+                "https://static.pochivka.bg/restaurants.bgstay.com/images/restaurants/01/1671/560d2470041d8.jpg"
+              ]
+            }
+          ]
         }
       },
       {
+        "id": 1,
+        "name": "Piroboridava",
         "info": {
           "id": 2,
           "name": "Piroboridava",
@@ -1613,17 +2008,330 @@
         },
         "mig": {
           "name": "Local Initiative Group Tecuci",
-          "location": "Comuna Poiana, județul Galați",
-          "description": "TO-BE-TRANSLATED Asociaţia ”GAL Tecuci” este un parteneriat public-privat constituit juridic în baza O.G nr. 26/2000, cu personalitate juridică, de drept privat şi fără scop patrimonial, în urma consimțământului celor 68 parteneri publici și privați de a se implica și contribui la dezvoltarea echilibrată și durabilă a teritoriului GAL prin implementarea programului LEADER, PNDR 2014-2020.\n\nStructura administrativ-teritorială a Asociației ”GAL Tecuci” se întinde din partea de Sud a județului Vaslui, respectiv comuna Pochidia și se continuă până în partea de Nord-Vest și Centrală a județului Galați, având în componența sa comunele: Bălășești, Buciumeni, Cerțești, Corod, Cosmești, Costache Negri, Cudalbi, Drăgușeni, Ghidigeni, Gohor, Nicorești, Poiana, Priponești, Țepu, Valea Mărului. Asociaţia ”GAL Tecuci” are sediul în sat Poiana, comuna Poiana, județul Galați.",
-          "team_title": "Preşedinte",
+          "location": "Poiana Municipality, Galats County",
+          "description": "The association \"GAL Tecuci\" is a public-private partnership, legally established on the basis of G.O. 26/2000, with legal personality, private law and without hereditary purpose, after the agreement of 68 public and private partners to get involved and contribute to the balanced and sustainable development of the territory of the LAG through the implementation of the LEADER program, PNDR 2014-2020.\\ nThe administrative-territorial structure of the Association \"GAL Tecuci\" extends from the southern part of the Vaslui district, respectively the municipality of Počidia, and continues to the northwestern and central part of the Galaţi district, having in its composition the municipalities: Bălășești, Buciumeni, Cerțești, Corod, Cosmești, Costache Negri, Cudalbi, Drăgușeni, Ghidigeni, Gohor, Nicorești, Poiana, Priponești, Țepu, Valea Mărului Association \"GAL Tecuci\" is based in Poiana Village, Poiana Municipality, Galați County",
+          "team_title": "President",
           "team": "Capraru Valeriu Paul\n0744 858 110\nMunteanu Mirabela\n0722 858 110\nPintilie Ancuta\n0733 858 110",
-          "contacts_title": "Contact",
-          "contacts": "Sediul Asociației GAL Tecuci\nComuna Poiana, județul Galați\nPoiana 807226, Romania\nFax: 0336 818 990\ne-mail: galtecuci@yahoo.com"
+          "contacts_title": "Contacts",
+          "contacts": "Sediul Asociației GAL Tecuci\nComuna Poiana, județul Galați\nPoiana 807226, Romania\nFax: 0336 818 990\ne-mail: galtecuci@yahoo.com",
+          "images": [
+            "tecuci_mig_1",
+            "tecuci_mig_2",
+            "tecuci_mig_3"
+          ]
         },
         "pois": {
-          "sights": [],
-          "hotels": [],
-          "restaurants": []
+          "sights": [
+            {
+              "id": 21,
+              "placeId": 2,
+              "type": "place",
+              "name": "Piroboridava fortress",
+              "short_description": "Archaeological site",
+              "description": "Pyroboridava (Ancient Greek: Πιροβορίδαυα) is a Dacian city mentioned by Ptolemy and archaeologically identified in Poiana, Galați, Romania. The second part of the city's name, Dacian dava, indicates the meaning of the tribal city.",
+              "address": "Unnamed Road, Poiana 625201, Romania",
+              "location": {
+                "lat": 45.99580609977201,
+                "lon": 27.248936227269017
+              },
+              "links": "",
+              "images": [
+                "piro_pic_3",
+                "piro_pic_2"
+              ]
+            }
+          ],
+          "hotels": [
+            {
+              "id": 22,
+              "placeId": 2,
+              "type": "hotel",
+              "maxPricePerNight": 100,
+              "maxPrice": 150,
+              "address": "Com.Valea Mărului,str.Pr.Dr.Marcel Crihana,nr.21, Valea Mărului 807320",
+              "price": 13,
+              "name": "Salonul Piscina Bacsoridana",
+              "popularity": 47,
+              "short_description": "Located in Valea Mărului commune (apple valey)",
+              "description": "Located in Valea Mărului commune, Galați county, Salonul Piscină awaits its guests in a superior class location. The salon is located right next to the Bacsoridana Pool, this giving it an advantage and offering everyone the possibility of a really special party or event.\n\nPhone: 0726 754 053",
+              "location": {
+                "lon": 45.84888878538969,
+                "lat": 27.428019574990692
+              },
+              "url": "https://www.bacsoridana.ro/salon-piscina",
+              "stars": 5,
+              "rating": 63,
+              "images": [
+                "https://www.bacsoridana.ro/wp-content/gallery/galerie-foto/IMG_009.jpg",
+                "https://www.bacsoridana.ro/wp-content/gallery/galerie-piscina/IMG_010.jpg",
+                "https://www.bacsoridana.ro/wp-content/gallery/galerie-piscina/IMG_020.jpg"
+              ],
+              "options": {
+                "available": 5,
+                "breakfast": true,
+                "wifi": true,
+                "airport": false,
+                "bar": true,
+                "gym": true,
+                "beach": false,
+                "casino": true,
+                "elevator": false,
+                "laundry": true,
+                "meeting": true,
+                "pet": true,
+                "restaurant": true,
+                "wheelchair": true
+              }
+            },
+            {
+              "id": 23,
+              "placeId": 2,
+              "type": "hotel",
+              "maxPricePerNight": 46,
+              "maxPrice": 138,
+              "address": "DJ252 Strada Principala Nr. 81, 807215 Nicoreşti, Romania",
+              "price": 13,
+              "name": "Casa Nicoresti",
+              "short_description": "Casa Nicoresti features a restaurant, seasonal outdoor swimming pool, a bar and shared lounge",
+              "description": "Casa Nicoresti features a restaurant, seasonal outdoor swimming pool, a bar and shared lounge in Nicoreşti. The accommodation provides a private beach area, as well as a garden and a terrace. The accommodation offers a shared kitchen and room service for guests.\nAt the hotel, every room includes a wardrobe and a flat-screen TV. Rooms come complete with a private bathroom equipped with a shower and a hairdryer, while certain units at Casa Nicoresti also provide guests with a seating area.\nGuests at the accommodation can enjoy a buffet breakfast.\nGuests at Casa Nicoresti will be able to enjoy activities in and around Nicoreşti, like hiking.\nFocşani is 27 km from the hotel, while Tecuci is 13 km away. The nearest airport is Bacau International Airport, 73 km from Casa Nicoresti.\nPhone: 0766 226 466",
+              "popularity": 47,
+              "location": {
+                "lon": 45.93437830253116,
+                "lat": 27.310767498431286
+              },
+              "url": "https://casanicoresti.hotelrom.top/",
+              "stars": 3,
+              "rating": 63,
+              "images": [
+                "https://cf.bstatic.com/xdata/images/hotel/max1280/373482317.jpg?k=84d38321eab6adf63e1bacedc2e60a4e54c10b72cd0e429a4bdd8227832dbf73&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max1280/366894793.jpg?k=63734814e36151eea84692a0fe7b6fc54a1afcac4b79d6af834460b283ad075e&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max1280/366863136.jpg?k=e80bc02dda6d07417bb028fdb92d2d3987dbf823e9f35c401e54929f731a9011&o=&hp=1"
+              ],
+              "options": {
+                "available": 5,
+                "breakfast": true,
+                "wifi": true,
+                "airport": true,
+                "bar": true,
+                "gym": true,
+                "beach": false,
+                "casino": false,
+                "elevator": true,
+                "laundry": false,
+                "meeting": true,
+                "pet": true,
+                "restaurant": true,
+                "wheelchair": true
+              }
+            },
+            {
+              "id": 24,
+              "placeId": 2,
+              "type": "hotel",
+              "maxPricePerNight": 46,
+              "maxPrice": 138,
+              "address": "Doaga, 20 km de Focșani, DN24, Vrancea, România",
+              "price": 13,
+              "name": "Zaga Zaga Hotel",
+              "short_description": "Quiet and peaceful hotel",
+              "description": "Leaving behind the hustle and bustle of the cities, in an enchanting corner, Siretul branches his arms that are scattered over an endless expanse, which gave birth to a unique place in Romania.\nAt the meeting between Vrancea and Galați counties, on an area of over 82 hectares, Zaga Zaga \nPhone: 0311 019 785\nE-mail: rezervari@zagazaga.ro",
+              "popularity": 47,
+              "location": {
+                "lon": 45.8538126065654,
+                "lat": 27.300197298429136
+              },
+              "url": "https://zagazaga.ro/",
+              "stars": 3,
+              "rating": 63,
+              "images": [
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/96/dd/1f/photo1jpg.jpg?w=1200&h=-1&s=1",
+                "https://d3hj7i5wny7p5d.cloudfront.net/upload/rooms/39690-m.jpg",
+                "https://d3hj7i5wny7p5d.cloudfront.net/upload/rooms/39693-m.jpg"
+              ],
+              "options": {
+                "available": 5,
+                "breakfast": true,
+                "wifi": true,
+                "airport": false,
+                "bar": true,
+                "gym": true,
+                "beach": true,
+                "casino": false,
+                "elevator": true,
+                "laundry": false,
+                "meeting": true,
+                "pet": true,
+                "restaurant": true,
+                "wheelchair": true
+              }
+            }
+          ],
+          "restaurants": [
+            {
+              "id": 25,
+              "placeId": 2,
+              "type": "restaurant",
+              "maxPricePerNight": 46,
+              "maxPrice": 138,
+              "address": "DN24, Cosmeşti 807085, Румъния",
+              "price": 13,
+              "name": "La Mama Leana",
+              "short_description": "Traditional food and party music",
+              "description": "The stop at La Mama Leana is a very old location in Galati County with a long tradition of traditional food and party music.\nIn this location located in Cosmesti commune, Galati county, you will be able to taste traditional Romanian food.",
+              "popularity": 47,
+              "phone": "+40 336408297",
+              "location": {
+                "lon": 45.858701654225115,
+                "lat": 27.307129998429208
+              },
+              "url": "https://goo.gl/maps/TidAtm5rK4FTtaKw8",
+              "stars": 3,
+              "rating": 63,
+              "images": [
+                "mama_lena_1",
+                "mama_lena_2",
+                "mama_lena_3"
+              ],
+              "options": {
+                "available": 5,
+                "breakfast": true,
+                "wifi": true,
+                "airport": false,
+                "bar": false,
+                "gym": false,
+                "beach": false,
+                "casino": false,
+                "elevator": false,
+                "laundry": false,
+                "meeting": true,
+                "pet": true,
+                "restaurant": true,
+                "wheelchair": true
+              }
+            },
+            {
+              "id": 26,
+              "placeId": 2,
+              "type": "restaurant",
+              "maxPricePerNight": 46,
+              "maxPrice": 138,
+              "address": "Sat Corod, Comuna Corod, Румъния",
+              "price": 13,
+              "name": "Mixt Grill La Pav",
+              "short_description": "Traditional Romanian Restaurant",
+              "description": "Mixt Glill La Pav, is a traditional Romanian restaurant located in Corod Jud Galati commune.\nIn this location tourists will find traditional Romanian grilled products with great skill.\nHere you will find famous small traditional Romanian made of pork and sheep.",
+              "popularity": 47,
+              "phone": "+40 749450344",
+              "location": {
+                "lon": 45.965031121526025,
+                "lat": 27.714247998432178
+              },
+              "url": "https://goo.gl/maps/7e1MjAd1npbWf33s9",
+              "stars": 3,
+              "rating": 63,
+              "images": [
+                "restaurant_26"
+              ],
+              "options": {
+                "available": 5,
+                "breakfast": true,
+                "wifi": true,
+                "airport": false,
+                "bar": false,
+                "gym": false,
+                "beach": false,
+                "casino": false,
+                "elevator": false,
+                "laundry": false,
+                "meeting": true,
+                "pet": true,
+                "restaurant": true,
+                "wheelchair": true
+              }
+            },
+            {
+              "id": 27,
+              "placeId": 2,
+              "type": "restaurant",
+              "maxPricePerNight": 46,
+              "maxPrice": 138,
+              "address": "300 Stefan cel Mare Str., Corod, Romania",
+              "price": 13,
+              "name": "ANNE BAR COROD",
+              "short_description": "Swedish buffet with traditional Romanian sweets and cakes",
+              "description": "Is a restaurant located in Corod Commune in Galati County, it is located on the main street and is a location known throughout the community because it is a place visited by many young people.\nThe specifics of the restaurant are of Swedish buffet type and there are traditional Romanian sweets and cakes.",
+              "popularity": 47,
+              "phone": "+40 753 703 064",
+              "location": {
+                "lon": 45.90525814473612,
+                "lat": 27.631996413774537
+              },
+              "url": "https://www.facebook.com/Anne-Bar-cofet%C4%83rie-gelaterie-891617811178352/",
+              "stars": 3,
+              "rating": 63,
+              "images": [
+                "https://scontent.fsof8-1.fna.fbcdn.net/v/t1.6435-9/118365708_1220318374974959_6052359845324902065_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=ZaiMP2NNM6AAX9Z-8_v&_nc_ht=scontent.fsof8-1.fna&oh=00_AT9vNeagacN_ON6ODr-ugUnYn7wZZblsQo2xMWP37MFrCQ&oe=632892AD",
+                "restaurant_27"
+              ],
+              "options": {
+                "available": 5,
+                "breakfast": true,
+                "wifi": true,
+                "airport": false,
+                "bar": false,
+                "gym": false,
+                "beach": false,
+                "casino": false,
+                "elevator": false,
+                "laundry": false,
+                "meeting": true,
+                "pet": true,
+                "restaurant": true,
+                "wheelchair": true
+              }
+            },
+            {
+              "id": 28,
+              "placeId": 2,
+              "type": "restaurant",
+              "maxPricePerNight": 46,
+              "maxPrice": 138,
+              "address": "Doaga, 627143, Vrancea, Romania",
+              "price": 13,
+              "name": "Zaga Zaga Cherhana",
+              "short_description": "Cherhanaua floating Freshness&Taste",
+              "description": "The floating Cherhanaua from Zaga Zaga is the ideal place where you can admire the beauty of the Siret Delta and at the same time enjoy delicious local products and fresh fish dishes, produced on your own farm.",
+              "popularity": 47,
+              "phone": "+40 311 019 785",
+              "location": {
+                "lon": 45.85195374308198,
+                "lat": 27.297555327265073
+              },
+              "url": "http://zagazaga.ro/cherhana",
+              "stars": 3,
+              "rating": 63,
+              "images": [
+                "https://zagazaga.ro/wp-content/themes/yootheme/cache/FINAL-Meniu-Cherhana-1-8ddc149f.webp",
+                "https://zagazaga.ro/wp-content/themes/yootheme/cache/FINAL-Meniu-Cherhana-3-b519198a.webp"
+              ],
+              "options": {
+                "available": 5,
+                "breakfast": true,
+                "wifi": true,
+                "airport": false,
+                "bar": false,
+                "gym": false,
+                "beach": false,
+                "casino": false,
+                "elevator": false,
+                "laundry": false,
+                "meeting": true,
+                "pet": true,
+                "restaurant": true,
+                "wheelchair": true
+              }
+            }
+          ]
         }
       }
     ]
